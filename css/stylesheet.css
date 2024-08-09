@@ -87,6 +87,7 @@ img{
 button{
     display: block;
     font-size: 1.25rem;
+    white-space: normal;
     word-break: break-word;
     text-align: center;
     font-weight: bold;
@@ -114,9 +115,7 @@ button{
     }
 
     button{
-        font-size: 3rem;
-        width: 75%;
-        
+        font-size: 3rem;        
     }
 
     #triviaBox{
